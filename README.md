@@ -1,8 +1,8 @@
-# Matrícula de Alunos
+# :school_satchel: Matrícula de Alunos
 
 O projeto consiste na criação de um sistema de cadastro de alunos usando o PDO do PHP. 
 
-# Instalação
+# :gear: Instalação
 
 ```bash
 # Comando para instalar as depêndencias (lembrando o composer precisa está instalado)
